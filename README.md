@@ -4,7 +4,7 @@
 
 \## 프로젝트 개요
 
-뉴욕에 위치한 가상의 커피 전문점 "Maven Roasters"의 거래 데이터를 활용하여
+뉴욕에 위치한 가상의 커피 전문점 Maven Roasters 의 거래 데이터를 활용하여
 
 일별 매출액의 변화 추세를 분석하고, 향후 매출을 예측하는 모델을 구축하였습니다.
 
@@ -52,7 +52,7 @@
 
 3\. 변수 중요도
 
-   - XGBoost 모델 기준으로 'unit\_price'와 'transaction\_qty'가 매출 예측에 가장 큰 영향을 줌
+   - XGBoost 모델 기준으로 'unit price'와 'transaction qty'가 매출 예측에 가장 큰 영향을 줌
 
 
 
